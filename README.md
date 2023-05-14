@@ -5,4 +5,4 @@
 
 ![ssm-seoul_02](nginx.png)
 
-![ssm-seoul_03](git clone_push.png)
+![ssm-seoul_03](git clone push.png)
